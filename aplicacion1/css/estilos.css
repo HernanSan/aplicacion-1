@@ -1,0 +1,42 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+body{
+	background: #f2f2f2;
+}
+header.cabecera{
+	color: #ff0000;
+	font-size: 15px;
+	background: #000;
+	width: 90%;
+	margin: auto;
+
+}
+
+header.cabecera h1{
+	padding: 1em 1em;
+}
+
+.articulo{
+	color: blue;
+	font-size: 18px;
+}
+
+
+nav.menuprincipal, footer{
+	width: 90%;
+	margin: auto;
+	background: purple;
+}
+p.parrafo {
+	color: orange;
+	width: 90%;
+	margin: auto;
+}
+
+aside {
+	color : violet;
+	width: 90%;
+	margin: auto;
+}
